@@ -1,1 +1,1 @@
-# nana-java-project
+# mavenNanaProject
